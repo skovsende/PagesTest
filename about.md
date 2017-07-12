@@ -4,5 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the place to get news about what happens in PD Tools. Some of this will tell about what we are doing and other stuff will be about how we do things.
-
+I'm a software craftsman currently employed at [SimCorp](http://www.simcorp.com/) in the tools department, where we are small team supporting the developers that are developing our main product.
